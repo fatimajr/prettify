@@ -1,8 +1,10 @@
 *{
-	font-family: 'Oswald';
 	box-sizing: border-box;
 	margin: 0px;
 	padding: 0px;
+}
+body{
+	font-family: 'Oswald';
 }
 nav{
 	margin-top: 20px;
